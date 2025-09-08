@@ -35,32 +35,22 @@ Random Forest Classifier: A powerful, non-linear model chosen to handle the comp
 Streamlit: Used to create and host the interactive web application.
 
 ### How to Run the App
+Clone the Repository: Get the project files onto your local machine.
 
-Step 1: Clone the Repository
+Install Dependencies: Run pip install pandas scikit-learn streamlit joblib in your terminal.
 
-Clone this repository to your local machine.
+Train the Model: Run python credit_risk_trainer.py. This creates the credit_risk_pipeline.pkl file.
 
-Step 2: Install Dependencies
-
-Navigate to the project directory and install the required libraries.
-
-pip install pandas scikit-learn streamlit joblib
-
-
-Step 3: Train the Model
-
-The app requires a pre-trained model to make predictions. Run the credit_risk_trainer.py script to download the dataset, train the model, and save it as credit_risk_pipeline.pkl.
-
-python credit_risk_trainer.py
-
-
-Step 4: Run the Web App
-
-Once the model is saved, you can launch the Streamlit application.
-
-streamlit run app.py
-
+Run the App: Once the model is ready, run streamlit run app.py to launch the web application.
 
 The app will open in your web browser. You can now use the interface to make predictions.
 
-Note: The dataset used in this project is the public German Credit Data
+### The interface(Streamlit) 
+<img width="931" height="760" alt="Screenshot 2025-09-08 120931" src="https://github.com/user-attachments/assets/af2f99d7-1ad8-4506-ab76-1d87b854d76c" />
+
+### The prediction made by the model
+<img width="905" height="428" alt="image" src="https://github.com/user-attachments/assets/86b47230-2622-4f22-92c5-a01b53320bbb" />
+
+<img width="910" height="418" alt="Screenshot 2025-09-08 121311" src="https://github.com/user-attachments/assets/070201ff-21cc-4636-87db-e4622caffcc1" />
+
+
