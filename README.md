@@ -49,7 +49,8 @@ The app will open in your web browser. You can now use the interface to make pre
 <img width="931" height="760" alt="Screenshot 2025-09-08 120931" src="https://github.com/user-attachments/assets/af2f99d7-1ad8-4506-ab76-1d87b854d76c" />
 
 ### The prediction made by the model
-<img width="905" height="428" alt="image" src="https://github.com/user-attachments/assets/86b47230-2622-4f22-92c5-a01b53320bbb" />
+<img width="896" height="381" alt="Screenshot 2025-09-08 122647" src="https://github.com/user-attachments/assets/32be1c74-a8a9-4ca8-9a22-7c6f47525a22" />
+
 
 <img width="910" height="418" alt="Screenshot 2025-09-08 121311" src="https://github.com/user-attachments/assets/070201ff-21cc-4636-87db-e4622caffcc1" />
 
