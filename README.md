@@ -34,6 +34,8 @@ Random Forest Classifier: A powerful, non-linear model chosen to handle the comp
 
 Streamlit: Used to create and host the interactive web application.
 
+### Colab file link: https://colab.research.google.com/drive/1iFn4tXm-DR6gKrPoEAFTwtjazHS2Aotr?usp=sharing
+
 ### How to Run the App
 Clone the Repository: Get the project files onto your local machine.
 
